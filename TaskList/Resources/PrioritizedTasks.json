@@ -15,7 +15,7 @@
       {
         "id": "69F79CAC-36F9-4911-BC98-1EDB2A3D7ABC",
         "name": "Walk the cat",
-        "completed": false
+        "completed": true
       },
       {
         "id": "E854E222-D22B-4D94-95B0-85F8A417E51B",
@@ -54,7 +54,7 @@
     "tasks": [
       {
         "id": "3048C57C-561E-45A9-BBB5-99B932020F50",
-        "name": "Learn to make baklava",
+        "name": "Learn to make lasagna",
         "completed": false
       },
       {
